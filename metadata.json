@@ -1,0 +1,8 @@
+{
+  "name": "EcoIF IA - Especialista A3P",
+  "description": "Agente de IA especialista em Agenda Ambiental na Administração Pública (A3P) para Institutos Federais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
